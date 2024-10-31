@@ -1,0 +1,5 @@
+﻿  server.c
+D:\SearchWork\learn-cpp\Socket\Server\server.c(8,8): warning C4013: “printf”未定义；假设外部返回 int
+D:\SearchWork\learn-cpp\Socket\Server\server.c(29,9): warning C4013: “gets_s”未定义；假设外部返回 int
+D:\SearchWork\learn-cpp\Socket\Server\server.c(43,9): warning C4013: “getchar”未定义；假设外部返回 int
+  Server.vcxproj -> D:\SearchWork\learn-cpp\Socket\Debug\Server.exe
